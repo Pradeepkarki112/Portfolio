@@ -7,8 +7,6 @@ Install deps: `npm install`
 
 Run: `npm start`
 
-## Live Demo:
+## Description:
 
-My Profile:
-
-https://pradeepkarki112.github.io/Portfolio/
+This is a web-app developed in ReactJS. 
