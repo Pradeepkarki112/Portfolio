@@ -69,7 +69,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Computer Science</h3>
                 <span className="qualification__subtitle">Valmiki College</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2017 - 2019
+                  <i className="uil uil-calendar-alt"></i>2016 - 2018
                 </div>
               </div>
             </div>
@@ -81,7 +81,7 @@ const Qualification = () => {
                   Sun Rise English School
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>upto 2017
+                  <i className="uil uil-calendar-alt"></i>upto 2016
                 </div>
               </div>
 
