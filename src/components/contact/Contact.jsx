@@ -31,11 +31,11 @@ const Contact = () => {
 
               <h3 className="contact__card-title">Email</h3>
               <span className="contact__card-data">
-                pradeepkarki112@gmail.com
+                karkipradeep112@gmail.com
               </span>
 
               <a
-                href=" mailto:pradeepkarki112@gmail.com"
+                href=" mailto:karkipradeep112@gmail.com"
                 className="contact__button "
               >
                 Write me
