@@ -104,7 +104,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">Front Developer</h3>
                 <span className="qualification__subtitle">Intelzy Company</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2022 - Present
+                  <i className="uil uil-calendar-alt"></i>March 2023 - Present
                 </div>
               </div>
 
