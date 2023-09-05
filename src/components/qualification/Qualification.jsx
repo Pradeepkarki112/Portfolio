@@ -126,7 +126,7 @@ const Qualification = () => {
                 Video Editor
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2015 - Present
+                  <i className="uil uil-calendar-alt"></i>2018 - Present
                 </div>
               </div>
             </div>
