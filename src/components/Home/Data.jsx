@@ -55,7 +55,7 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Software Engineer</h3>
+      <h3 className="home__subtitle">Frontend Developer</h3>
       <p className="home__description">
         I'm fueled by my passion for creativity and my unwavering commitment to
         delivering high-quality work.

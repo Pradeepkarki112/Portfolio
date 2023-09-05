@@ -16,8 +16,8 @@ const About = () => {
           <p className="about__description">
             As a frontend developer, I specialize in crafting web pages that
             boast exceptional user interfaces. My extensive experience in the
-            field has enabled me to deliver projects that have received positive
-            feedback from numerous satisfied clients.
+            field has enabled me to make projects that have received positive
+            feedback.
           </p>
           <a download="" href={CV} className="button button--flex">
             Download CV
