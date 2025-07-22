@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "./qualification.css";
 
 const Qualification = () => {
@@ -102,9 +102,12 @@ const Qualification = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="qualification__title">Front Developer</h3>
-                <span className="qualification__subtitle">Intelzy Company</span>
+                <span className="qualification__subtitle">
+                  Bhawani Info Tech
+                </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>March - August 2023
+                  <i className="uil uil-calendar-alt"></i>November 2023 -
+                  Present
                 </div>
               </div>
 
@@ -121,16 +124,28 @@ const Qualification = () => {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Youtuber</h3>
-                <span className="qualification__subtitle">
-                Video Editor
-                </span>
+                <h3 className="qualification__title">Front Developer</h3>
+                <span className="qualification__subtitle">Intelzy Company</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2018 - Present
+                  <i className="uil uil-calendar-alt"></i>March - August 2023
                 </div>
               </div>
             </div>
 
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">Youtuber</h3>
+                <span className="qualification__subtitle">Video Editor</span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calendar-alt"></i>2018 - 2024
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+            </div>
           </div>
         </div>
       </div>

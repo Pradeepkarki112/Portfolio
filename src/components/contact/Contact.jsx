@@ -10,12 +10,13 @@ const Contact = () => {
 
     emailjs.sendForm(
       "service_e4e9ydl",
-      "template_r3sa9sf",
+      "template_7vvfqle",
       form.current,
       "zPMZhe_yKLcpNxfer"
     );
     e.target.reset();
   };
+
   return (
     <section className="contact section" id="contact">
       <h2 className="section__title">Get in touch</h2>
@@ -59,13 +60,18 @@ const Contact = () => {
             </div>
 
             <div className="contact__card">
-              <i className="bx bxl-messenger contact__card-icon"></i>
+              <i className="bx bxl-linkedin contact__card-icon"></i>
 
-              <h3 className="contact__card-title">Messenger</h3>
-              <span className="contact__card-data">user.fb</span>
+              <h3 className="contact__card-title">LinkedIn</h3>
+              <span className="contact__card-data">pradeep-karki</span>
 
-              <a href="https://www.messenger.com/" className="contact__button ">
-                Write me{" "}
+              <a
+                href="https://www.linkedin.com/in/pradeep-karki-200674274/"
+                className="contact__button"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Visit Profile{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
             </div>

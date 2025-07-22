@@ -34,13 +34,17 @@ const Services = () => {
                   ? "services__modal active-modal"
                   : "services__modal"
               }
+              onClick={() => setToggleState(0)} // Close when clicking outside
             >
-              <div className="services__modal-content">
+              <div
+                className="services__modal-content"
+                onClick={(e) => e.stopPropagation()} // Prevent closing when clicking inside
+              >
                 <i
+                  className="uil uil-times services__modal-close"
                   onClick={() => {
                     setToggleState(0);
                   }}
-                  className="uil uil-times services__modal-close"
                 ></i>
 
                 <h3 className="services__modal-title">Video Editor</h3>
@@ -93,18 +97,21 @@ const Services = () => {
                   ? "services__modal active-modal"
                   : "services__modal"
               }
+              onClick={() => setToggleState(0)} // Close when clicking outside
             >
-              <div className="services__modal-content">
+              <div
+                className="services__modal-content"
+                onClick={(e) => e.stopPropagation()} // Prevent closing when clicking inside
+              >
                 <i
+                  className="uil uil-times services__modal-close"
                   onClick={() => {
                     setToggleState(0);
                   }}
-                  className="uil uil-times services__modal-close"
                 ></i>
-
                 <h3 className="services__modal-title">Web Developer</h3>
                 <p className="services__modal-description">
-                  Services with more than 6 months of experience. Providing
+                  Services with more than 3 years of experience. Providing
                   quality work to client.
                 </p>
                 <ul className="services__modal-services grid">

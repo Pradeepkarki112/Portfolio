@@ -8,20 +8,20 @@ export const Data = [
     image: Image1,
     title: "Deepak Aacharya",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Excellent work! The project was delivered on time with great attention to detail. Highly recommended.",
   },
   {
     id: 2,
     image: Image2,
     title: "Suman Chalise",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Very professional and easy to communicate with. Delivered exactly what I needed with high-quality results.",
   },
   {
     id: 3,
     image: Image3,
     title: "Manish Thapaliya",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Great experience working together. The work was clean, fast, and exceeded my expectations.",
   },
 ];

@@ -1,9 +1,9 @@
 import React from "react";
 
-const Backend = () => {
+const Tools = () => {
   return (
     <div className="skills__content">
-      <h3 className="skills__title">Backend Development</h3>
+      <h3 className="skills__title">Tools</h3>
 
       <div className="skills__box">
         <div className="skills__group">
@@ -11,7 +11,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Firebase</h3>
+              <h3 className="skills__name">Git</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -20,8 +20,8 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Node js</h3>
-              <span className="skills__level">Basic</span>
+              <h3 className="skills__name">Github</h3>
+              <span className="skills__level">Intermediate</span>
             </div>
           </div>
 
@@ -29,7 +29,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Python</h3>
+              <h3 className="skills__name">Figma</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -40,8 +40,8 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Django</h3>
-              <span className="skills__level">Basic</span>
+              <h3 className="skills__name">ESLint</h3>
+              <span className="skills__level">Intermediate</span>
             </div>
           </div>
 
@@ -49,8 +49,8 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">MySql</h3>
-              <span className="skills__level">Basic</span>
+              <h3 className="skills__name">TanStack</h3>
+              <span className="skills__level">Intermediate</span>
             </div>
           </div>
 
@@ -58,7 +58,7 @@ const Backend = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">PHP</h3>
+              <h3 className="skills__name">WordPress</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -68,4 +68,4 @@ const Backend = () => {
   );
 };
 
-export default Backend;
+export default Tools;
