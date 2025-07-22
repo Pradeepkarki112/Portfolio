@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.56acc1ff.css",
-    "main.js": "/static/js/main.12f049c8.js",
+    "main.css": "/static/css/main.14af2469.css",
+    "main.js": "/static/js/main.ea9ddcf0.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Pradeep-CV.pdf": "/static/media/Pradeep-CV.bc87094b3e42de59fb2d.pdf",
     "static/media/Image3.jpg": "/static/media/Image3.5629823f58359db3bfc2.jpg",
     "static/media/Image2.jpg": "/static/media/Image2.7a09bac7ead9568e61db.jpg",
     "static/media/Image1.jpg": "/static/media/Image1.7b246a9ae7388ea0deab.jpg",
     "static/media/aboutimg.jpg": "/static/media/aboutimg.a4df17a13fee7af3b617.jpg",
-    "static/media/profile.jpg": "/static/media/profile.1cbff18f95b065f62cf6.jpg",
-    "static/media/Pradeep-CV.pdf": "/static/media/Pradeep-CV.4c06590a6b10a613396c.pdf",
+    "static/media/profile.jpg": "/static/media/profile.14fd681c1ec860918561.jpg",
     "index.html": "/index.html",
-    "main.56acc1ff.css.map": "/static/css/main.56acc1ff.css.map",
-    "main.12f049c8.js.map": "/static/js/main.12f049c8.js.map",
+    "main.14af2469.css.map": "/static/css/main.14af2469.css.map",
+    "main.ea9ddcf0.js.map": "/static/js/main.ea9ddcf0.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56acc1ff.css",
-    "static/js/main.12f049c8.js"
+    "static/css/main.14af2469.css",
+    "static/js/main.ea9ddcf0.js"
   ]
 }
