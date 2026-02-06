@@ -8,20 +8,20 @@ export const Data = [
     image: Image1,
     title: "Deepak Aacharya",
     description:
-      "Excellent work! The project was delivered on time with great attention to detail. Highly recommended.",
+      "A dedicated developer who doesn't stop until the problem is solved. Their work ethic and commitment to clean code are truly impressive.",
   },
   {
     id: 2,
     image: Image2,
     title: "Suman Chalise",
     description:
-      "Very professional and easy to communicate with. Delivered exactly what I needed with high-quality results.",
+      "Incredibly easy to collaborate with. They bring a positive energy to the team and have a rare knack for explaining complex technical issues simply.",
   },
   {
     id: 3,
     image: Image3,
     title: "Manish Thapaliya",
     description:
-      "Great experience working together. The work was clean, fast, and exceeded my expectations.",
+      "A true professional who balances speed with quality. Their friendly approach to code reviews and feedback makes them a massive asset to any sprint.",
   },
 ];

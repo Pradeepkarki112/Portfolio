@@ -14,10 +14,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            As a frontend developer, I specialize in crafting web pages that
-            boast exceptional user interfaces. My extensive experience in the
-            field has enabled me to make projects that have received positive
-            feedback.
+            As a software developer with a passion for designing web applications that are both visually engaging and technically robust. My work integrates strong programming skills with user-centered design, and I have successfully contributed to projects that demonstrate both practical impact and innovation.
           </p>
           <a download="" href={CV} className="button button--flex">
             Download CV

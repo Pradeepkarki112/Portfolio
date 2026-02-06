@@ -49,8 +49,8 @@ const Services = () => {
 
                 <h3 className="services__modal-title">Video Editor</h3>
                 <p className="services__modal-description">
-                  Services with more than 5 years of experience. Providing
-                  quality work to client and companies.
+                  Involved with more than 5 years of experience. Making
+                  quality videos for different categories.
                 </p>
                 <ul className="services__modal-services grid">
                   <li className="services__modal-service">
