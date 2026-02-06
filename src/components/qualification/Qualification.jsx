@@ -49,7 +49,7 @@ const Qualification = () => {
                   Tribhuvan University
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>2019 - 2023
+                  <i className="uil uil-calendar-alt"></i>2018 - 2022
                 </div>
               </div>
 
@@ -127,7 +127,7 @@ const Qualification = () => {
                 <h3 className="qualification__title">IT Field</h3>
                 <span className="qualification__subtitle">Junior Frontend</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"></i>March - August 2023
+                  <i className="uil uil-calendar-alt"></i>August 2022 - October 2023
                 </div>
               </div>
             </div>
