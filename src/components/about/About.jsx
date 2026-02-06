@@ -1,7 +1,6 @@
-import React from "react";
-import "./about.css";
 import ABoutImg from "../assets/aboutimg.jpg";
-import CV from "../assets/Pradeep-CV.pdf";
+import "./about.css";
+// import CV from "../assets/Pradeep-CV.pdf";
 import Info from "./Info";
 
 const About = () => {
@@ -16,7 +15,7 @@ const About = () => {
           <p className="about__description">
             As a software developer with a passion for designing web applications that are both visually engaging and technically robust. My work integrates strong programming skills with user-centered design, and I have successfully contributed to projects that demonstrate both practical impact and innovation.
           </p>
-          <a download="" href={CV} className="button button--flex">
+          {/* <a download="" href={CV} className="button button--flex">
             Download CV
             <svg
               class="button__icon"
@@ -43,7 +42,7 @@ const About = () => {
                 fill="var(--container-color)"
               ></path>
             </svg>
-          </a>
+          </a> */}
         </div>
       </div>
     </section>
